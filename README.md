@@ -25,6 +25,6 @@ Navigate to http://localhost:5000
 ```
  cd client
  npm install
- npm start # Running dev client
+ npm start
 ```
 Navigate to http://localhost:8080
